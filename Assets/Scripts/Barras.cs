@@ -6,7 +6,7 @@ public class Barras : MonoBehaviour
 {
     [SerializeField] private float speed;
     [SerializeField] bool isPaddle1;
-    private float yBound = 3.75f;
+    private float yBound = 3.34f;
 
     // Update is called once per frame
     void Update()

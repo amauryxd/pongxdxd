@@ -1,0 +1,6515 @@
+fileFormatVersion: 2
+guid: 524b1be0d6c5a7042a9f39eea2fbbad0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: indigo_0_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a0539c4856954fb0a9ff2fd9fdc11
+      internalID: -2043602009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 486
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb145ece8c2e32479d16bf34579571f
+      internalID: 86108257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 486
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dbaccbd42faa34498f5cf4b2129f20
+      internalID: 1727614970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cbc2a82d8941b4a887665a08e0926c
+      internalID: 122697557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 487
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751eabb7778aab04dab035a5f5578a0e
+      internalID: -450447726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 487
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78a97454d679c449aea5a842f2ff27
+      internalID: -1045484720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4b7b41599b5140850541b12c7c700
+      internalID: 114019842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 487
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144db29ecc98b148bf10412c83416a3
+      internalID: 143761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 487
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1006575aed0bef47a6f876b0950e00d
+      internalID: 532123151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 486
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31b79a77d71edb41b0bdfa376627b44
+      internalID: 729905542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 485
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234c486d43584f47b7f41c9581265d6
+      internalID: -1303200332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 484
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b42823436e532438e976381aeca7b0
+      internalID: -709108196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def814b7fbbf679418717e0cb690cfb2
+      internalID: -746226216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 485
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebed0804165bea459c1fb76e3195593
+      internalID: 1413384529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 486
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89d46b8a0a84949a747d96fb535661
+      internalID: -1857499880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 485
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c325e0f7ec85fb47a9d62e5f0a36676
+      internalID: -459173722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 491
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af01d992c7a7db4b8c556dc5993fc87
+      internalID: 1075263477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576da28e1c19f54883e84546320cf02
+      internalID: 744877903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 488
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd71ee1741cf92489576cbccdca236f
+      internalID: 620264912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_20
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 489
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b548982767e248b44f6ab90c777cb
+      internalID: 2138731242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 491
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371930ad2422a649aaca27e87aad0aa
+      internalID: 1148390389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01286a16f33ee1a46ae657d2850c469f
+      internalID: 1248310425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 486
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dca7b4089fbe046a8016b1f2b45756
+      internalID: -854207304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 488
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c01bdd81b318e409a726be8ce13665
+      internalID: -1205184879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd36f504c0fc2478dca54981297703
+      internalID: 459982162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c076cd9b052f4b9c8ba2f24380d64
+      internalID: 1715571713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeef55e64fd1a949824faa581761ce6
+      internalID: -1205961513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 455
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7918eeee23e8c345a29645b83cc8a6b
+      internalID: -892894892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 451
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af8bee558c78c049be2e69635097927
+      internalID: -1503944954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee0a36409b9b345b320feef9e2b36e
+      internalID: 504679510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f250dc1184b8c114c873bbbe0a3e9f76
+      internalID: -1688771737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 448
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f543e4ba0ab0f44960080501986fab
+      internalID: 315423778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 458
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ac3c326c88154d919e23a40bf00b1
+      internalID: -984209964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 457
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211144dc8b3694798321b59feb7c22
+      internalID: 1637681341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 457
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f50134627f41104989717eeb031326b
+      internalID: -581812259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 458
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d66e85e609d9418d009e4fd87b2b2
+      internalID: 1029256287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 460
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9852f441da764da10fc791dc7045a
+      internalID: -418541367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535b0abbb4328f45951c25847429dc3
+      internalID: 1321203026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6839f992cdbd584abfbe0aca11957cb
+      internalID: -1584607370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 423
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876e941c3a763948bed7ccb0f2f753c
+      internalID: 1215600983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 423
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea0eea23e08ff409e6279eb354b3b6
+      internalID: -802608628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a701c96a47f10444a4e1acad0dad36b
+      internalID: 587937922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543c2f7744e35e43b21dcf17f6cdd76
+      internalID: 1739626999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c067631297b6e46946936007286ce3
+      internalID: 1246090932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 423
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ce8679b55e7445b7a5117cd2b5f38
+      internalID: 2064091617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 423
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9749aed79c06da4d9db34834fdde346
+      internalID: 1975959009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 423
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5fa218f7e0f249a49aa37101e1c26
+      internalID: 1818156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 422
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42879d544ae496749a344c5fba6c0ded
+      internalID: -656470674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 421
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67ca71be51b8254f884536ab2dc5a4d
+      internalID: -2017922022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 422
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d467651e593b449626a838c3535b3
+      internalID: -14613332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ecf1319d6d4544bc1031d44336f52
+      internalID: -810701007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 422
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c67d300abb6ef4fa5b889084d304b2
+      internalID: -1897923394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_53
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 422
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fad138c5caf94181e4458b49f6987
+      internalID: 1963342398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_54
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 425
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375417caf202314089c2b97984cb36e
+      internalID: 496786430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ae1125834edc409803cfe7c28a81b
+      internalID: 1995886525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_56
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 423
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbdb6f02cb1fe54ab73557c4ba2d0c5
+      internalID: 1359121937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_57
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 424
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d217f41ecd700646ba7174a4c8a8d29
+      internalID: -813725954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_58
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 425
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b43c78ab2c7b46a2b67126aae0b20
+      internalID: -1200581459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_59
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 422
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270293b008d95d4caa4c99c5b5191e7
+      internalID: 2018371015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_60
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 422
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef8879d058ca04ebd2be6ab82dcc57
+      internalID: 367421796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_61
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 423
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6c977430c955428fc2e9d33178d6d
+      internalID: -864758491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 391
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd943a1e7274ca4caddb50f5fa3644e
+      internalID: 688092274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 391
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841c0f1f573c3442a34c482f25645d6
+      internalID: 1165241009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 391
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cf7b34f3744a540b7756c1174463e0
+      internalID: -107845407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884462fc587dc9b429f8b1c0086c26ab
+      internalID: 853943263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 388
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e695bad696994cbac9a8dec47810f
+      internalID: 16152903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 388
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbe81195cb4724a819319d5b0f3c2f
+      internalID: -1779632075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 388
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea09f2d03fb53458c6c9be82ad0263
+      internalID: -787251830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_69
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 395
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5ff8fbe1eefe4ab7775d5894cbab8
+      internalID: 2096164412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_70
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 392
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc63d980c50674f92310854b2ed0e9
+      internalID: -2038428604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 392
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf1dd15af98294c800c3e636b50b6a
+      internalID: -268825842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 395
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89123ea759a03744838bb85d051310a
+      internalID: -1456105151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_73
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 396
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a685208a9ff14f9033704d63cb5d4
+      internalID: -2010100982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657868975358544784d1a231cb4f4dd
+      internalID: 919405836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_75
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 360
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3150d2af2397409c55910b5f4a8c8
+      internalID: -683651669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5314fe2c41e522640b1393d74b50e50c
+      internalID: 799181481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d6a0971f1a264589288d03b1747ba
+      internalID: -250507201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ff5f6040c39f419045e0c98e53f1b
+      internalID: 280988574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_79
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200324ad8fd732f47ba15a14019922ff
+      internalID: 2040752889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc10092364cfb5048be2add38a75803c
+      internalID: 676334903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd94880f7f1a7dd40b80cc270925c40a
+      internalID: 974051204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb88166063bd5c45940721edcd050a1
+      internalID: -717648249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a69f3c9447e0c42b22968fa68598e3
+      internalID: 1667338726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 360
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e7fdeca0fad444a5d18d5a78bb952
+      internalID: -1144208218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_85
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e2c43fd6aba249b4a2349528aadbf
+      internalID: 1056637774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f70013a0347346b632b5ee60356a7
+      internalID: 1393227749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ebdbd58d720e4abcc5a68bd4da304
+      internalID: -1156383883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f368b69d3a9ef4f88850377e67282b
+      internalID: 1877318420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 360
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb076b4a7567c4bb86a4e6c17dd2df
+      internalID: -1489949216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_90
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 362
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648fd5af22e1054a950b455eae252b3
+      internalID: -1808581820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_91
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 360
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84c987069c1c540a7cecd5f0ecf2da
+      internalID: 358705773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_92
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84908b0893df3b49837a409678771d5
+      internalID: -1591680017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_93
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 360
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4682dbd37b06a4f9ca997d55b78390
+      internalID: -334167322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_94
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 364
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e812b6c4c9bf9c742a5c7e4c176e21f8
+      internalID: 904684145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_95
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 360
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140990d628543524eb41204b9190e3ce
+      internalID: 508800128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_96
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 360
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde60016dc07db48a2cc1940186da80
+      internalID: 1975577674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_97
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 360
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767a95e842b0034c906ac7c3fd0c004
+      internalID: 2146382910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f7a493ca2a70e4ead467395a70b2c5
+      internalID: -1067174261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9cccb0a94e4144ab15711a1641a720
+      internalID: -1228512412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d2af5de397da4b9b219b79843bea9
+      internalID: -1249353593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 328
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce16793ff46ae4e93c38635663b4f5
+      internalID: -200981970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 328
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3b4d58a05aa54a8f2065453fc7ab0
+      internalID: -1149151369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b7598acf802b47bc490da39bc6c5e
+      internalID: -288191903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f9f7fb25ed237498335cd16cddf1d5
+      internalID: -1209001842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 331
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0957b416d8475478ed878f078a623e
+      internalID: -445464081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_106
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 328
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c526c56f9fc94da96f4fbf3ee8971
+      internalID: -756540930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_107
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 328
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82f771c4f82edb47a2ba147801707ea
+      internalID: 2101203243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_108
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 332
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc213eb2dd6d67348997bd4e12a4c59b
+      internalID: 2056633904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_109
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 333
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f5d7dcce0df1488030acdca5e5854
+      internalID: 988923590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdafcf9cd27dba479317bfc197a8777
+      internalID: -1857075995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 295
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3de29fbf976148b34d4aa917abd68
+      internalID: -509709918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 295
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7d7ce5fa30874abd781ae8760206e
+      internalID: -1019051883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de621fba11a264185b6231b64034a7
+      internalID: 652902502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 296
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68405575763e5438ba6a91da7d3ef2
+      internalID: 1990186092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_115
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 296
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf00eb5d6119b147abded99d65c3eea
+      internalID: -1262613985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d89d51be76a6e4cb1e8a4860a6e0e5
+      internalID: -1669872733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_117
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49cb7d0ec743c4197a1a5f2e6394f1
+      internalID: -1357270909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 296
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db51c92a967b9448eb0d9b65725edb
+      internalID: -1799062051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 296
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70b1582a242ed44827fb1fb7337967
+      internalID: -1676310355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 296
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bb48b866693a489590d0c0c432e65
+      internalID: 1589373066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_121
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 296
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b374d1b579c2f74429d19371ca0264e6
+      internalID: 905789246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_122
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 295
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b70ac273f9b04f982dc4dbb4a5489
+      internalID: -2113898731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1987a2bceed5d4c955a2b23316c2ee
+      internalID: 455024592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 296
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e053a04cc814f44f92271d391f69eaf
+      internalID: -1500301790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19111dc9fa3bf446a115c9e894dc9f0
+      internalID: -1843517613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 297
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2bf2d3cd57ef0498971ef407e4770e
+      internalID: -1956800833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 295
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd57f89cf0648f42ab5c62a56366aa0
+      internalID: -1135204346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_128
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 295
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcaa5c5f8aaca44eae53a6947e1bca5
+      internalID: -495038805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_129
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 297
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547ce989dc82634bb52d6bd6569ec72
+      internalID: 17893291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_130
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 299
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3fd1eceaf9ef4e94ba2511df640b7
+      internalID: -91311895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 297
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4954b0bd1cf02c41ba9b6ab1861cdc1
+      internalID: 1534597965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_132
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 297
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f99ac3073d6949a4f6749e75ca3fc
+      internalID: 1372611353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_133
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 295
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f16d9833d84b4a864a729d2ef12bf
+      internalID: 1531319941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327af2fed79b4164484450e77e06f93b
+      internalID: -1965091047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_135
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83c337a7dd8a384bafc661340799f40
+      internalID: 1504502710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 264
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688a92a210eb8a4ab31d8c6d2d262b4
+      internalID: -2073491198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 264
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e468c8936db00418541ad322b461bc
+      internalID: -2133495291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_138
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 264
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a8b6f2b2e1144b8d38178de255b31
+      internalID: -1701362697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 264
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea203218b80e9694f8c9c9808715ed75
+      internalID: -1314016186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 264
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42570df8863eb3e499bddd64965d1a76
+      internalID: -1258954504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_141
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 268
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08814376a530394f84f50b8059051ae
+      internalID: 498182796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_142
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 263
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68c07e48a0ac044aa8016f20d78acb
+      internalID: -998368349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_143
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 263
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a0fc8d56e91c84fbc823ce48cf253e
+      internalID: -1198053070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_144
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 265
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d0d777da8e0645881930af5b3f3d4
+      internalID: 1055080745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_145
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 268
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4021303c48941e4ca0fbea3ab948375
+      internalID: -1476339850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82fd7362ae644140a74aa9cd408d9c4
+      internalID: 1677064601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f20ca725d6684c8bf02b8e077752f
+      internalID: 1414654753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da3eeedfb779a4384df7701171b06a
+      internalID: -938669447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca092f9011281ac439b0bf9705231e1f
+      internalID: 1913497410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa7799e02d5cf429ce61ecf0848213
+      internalID: 585499538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 228
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8565028d2df9c4084f413b8bc45408
+      internalID: 1249899995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 228
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6d2e1e336b6d4096966eb800a1695
+      internalID: 1092089555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e9c25f9df9574d8149d1beae71e99
+      internalID: -1808012896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 228
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52790d92c862f3543bc2ead4c892c054
+      internalID: 209539966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_155
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 227
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45fff5454daae340a0ca9e3f115467d
+      internalID: 909435891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_156
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 226
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3daa79182f8f346ae8be3b774d22fb
+      internalID: 622963256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_157
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 225
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f902a6509a0c94ebdf108a5a03df57
+      internalID: 1887449097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_158
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 231
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87d0387ce5b6694cad366f4b57584a4
+      internalID: -256786647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_159
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53278b2d93f374590066ea7c0b3771
+      internalID: 1487673303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_160
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 231
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc04f27e30090245abce81081bb8723
+      internalID: -880530539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_161
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 230
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05c10f15810c444900b1801e93a270
+      internalID: -1140556113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_162
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 233
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da0b957e60c7b049a3f601e059ba87d
+      internalID: 1089645918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_163
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 232
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d553381782ae448e9e58a96471346
+      internalID: 1461335510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_164
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 231
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862859cc7ca929428e025a716513693
+      internalID: 1792489775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_165
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 233
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93462e1be2eda4e8518c0d4c24a16b
+      internalID: -692456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 235
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981b2194feb3de419252b6892cb823e
+      internalID: 1520935575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 233
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76879559d2591004087a9b93e89bdf21
+      internalID: 1996248584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run33
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 232
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3544cfd95dfe4b84b733cbb777950
+      internalID: -1032230533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run44
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 231
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4969d07974c9248add248e9874c3a6
+      internalID: 305291965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_170
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f5a489ab4da74aaf6508a14bdc947
+      internalID: 775070636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_171
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d726e1020e1cc848bb0b936c009def6
+      internalID: 848585995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b61880f2008549a05fd1c9a99608e
+      internalID: -1828993009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_173
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 196
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc18dd47e051fc4e80f822966d44590
+      internalID: -854469973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_174
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2046050a0a10aa4890866de92591c4d
+      internalID: -1624126118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_175
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404181fb755fef3459d2780fbd01926f
+      internalID: -1358407631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8932524dd6bf84396a816babcf0072
+      internalID: 920160731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_177
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 192
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0f69b875fb3741938bc8ab21561da
+      internalID: -1174737989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_178
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed3278d4ef76f498538a80399e98d3
+      internalID: -1376398236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run55
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 199
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c617370a8729147ad06feadde3cf4d
+      internalID: -1453768448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run66
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 199
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc6cecc37891b9408c1336a45ed0b45
+      internalID: 604245876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 201
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0170eb9c43346499c73366657c306a
+      internalID: -38353207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run88
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 202
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33259748c8a229645b14176154a3b8e0
+      internalID: -1202249049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_183
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7896c315d71042aaf7000f0ea17bd
+      internalID: 2099993473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_184
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7f6c360f677145ae94fee2415a7d1
+      internalID: -903295300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_185
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b85e62c4de8b49a05fbc757e9f52f
+      internalID: 2121898831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_186
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862db9ea6ecd9c04287ce303ce7358d8
+      internalID: 789955240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_187
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 168
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c769ac0e6201dc45819623786cdf135
+      internalID: -1949246077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_188
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe52544e3b946b47a74f6f99d65d604
+      internalID: 1682213947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_189
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f6c011a2e37842949eafae795dbbe
+      internalID: 1016163567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_190
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da69cfa0eecf4d4bb7ff6775cba94bb
+      internalID: -1031004587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_191
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 168
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ee08ecc4620649b18309e3e02b9a1
+      internalID: 106654377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_192
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 168
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67e5179bfec3e4681c92d9df894ac1
+      internalID: 386474596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 168
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bd7a24351e17745876946b8132c691
+      internalID: -911894203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_194
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c9dc952a688694ba26d5e793e55379
+      internalID: 225089609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_195
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec177df0839c341af1eb9ff8fe9196
+      internalID: -2055771455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_196
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64201f683e5b74596700e81d056d69
+      internalID: -646030504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_197
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 168
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d666f1da17d04cbbed2713c152635
+      internalID: -170713598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_198
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cbc364c096069428d8d9d793ebd9e1
+      internalID: -636494947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_199
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 169
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4e174a5c31274b9d82152837f15d2
+      internalID: -1835914271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_200
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 167
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b4f49e4a67a145942b3bd249a2c42
+      internalID: -862022157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_201
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 167
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26458b6f9434505469d2acaa8f3f87a2
+      internalID: 313823861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_202
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 169
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cd762b7893554893ce344d381d6fc
+      internalID: -91483557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_203
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 171
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01048ea4ff3122e45a8ffbf91b0623be
+      internalID: -1900482753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_204
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 169
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1866863a30882428b88af50ae394dd
+      internalID: -903572875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_205
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a120747d9069404ba331f1c4db61efe
+      internalID: -769047375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_206
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 167
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1167580894254bb5de6921c2e5685
+      internalID: -1867186816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_207
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad8741c9cf8cd49a14418466408125
+      internalID: -1009063281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_208
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 136
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264bd1c888909044a68460d08ce31e4
+      internalID: 1570081597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_209
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2757fe68ce4dd4bb5dea07f4d1cd73
+      internalID: 1231514484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_210
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 136
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d0a59d96ec7b140a8e620c09a1c6f9
+      internalID: -36037454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_211
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aae478c251c7b47b2978fa233f8334
+      internalID: 749150244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_212
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 136
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa4cb3fde93f94ca9107109c202632
+      internalID: 1085679825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_213
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 136
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11426806f3e8545bdc373984bf8055
+      internalID: -2078595432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_214
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da61b2bd83ef544a99170e7215e15ef
+      internalID: -1534835750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_215
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 135
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84097f1ba0f6cd04dbfcacf6f429bffb
+      internalID: -826091756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_216
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 135
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd77cbe98bcbfac4f9cb928b8d40c321
+      internalID: -2039980440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_217
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 137
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1646dd0de6aa63249b862dae590d4acd
+      internalID: 1946909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_218
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 140
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d717cd999f3a54180cff6476ef0e6f
+      internalID: 35125154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7901e8fd893fbb47b1fee085a40b3be
+      internalID: -1352840520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3860725aac40498ae835b86e20ad6
+      internalID: 1623287777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7ebcf32e01d04abf9d4f248ff7e57
+      internalID: -1792224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f79b25e06ae8f419d9c1297eeab00f
+      internalID: 872432219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_223
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b436f37cc0ebc46a0a41fe7352cec6
+      internalID: -1418892146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_224
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878cece7c2e0ccd4c8588e75ac41d957
+      internalID: 1496901570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_225
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7a4c467fa7714786c361f597b093e
+      internalID: 1840726460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_226
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac46baff74e16a4b8797dc235968800
+      internalID: -1223482283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_227
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e83e5645d349419bec0f0fda48ac4
+      internalID: 508305427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_228
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 104
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e94e62da3e5664ea3cd939343407e7
+      internalID: 659318158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_229
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 104
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa256d871540d408c743b17df1902d
+      internalID: 684111397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_230
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68486af8d6d2e442a1869335fa73a2b
+      internalID: -563957327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_231
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 104
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2da6cd9a85a44396237570317d8b0
+      internalID: -888956909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_232
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb2ddbaf0525d84bbb88344083b8798
+      internalID: 891542114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_233
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 104
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b01eda9cb6f74e83ba698da30e591
+      internalID: -886020603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_234
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e096cc6d898b41b3eb0514f5d4571
+      internalID: -648353942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_235
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 106
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b05f04866f38f4a805a0ae9cde4726
+      internalID: 606869418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_236
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9038a9ee397a549aa4dcbd311bb536
+      internalID: 1888004247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_237
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed6af3db470734782adac55875a610
+      internalID: -1113991762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_238
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 104
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a10450edbfbc644906bfee0e4ea370
+      internalID: -1066350651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_239
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 108
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b279a95b0159b47b69d948c9253165
+      internalID: -1111527134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_240
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 104
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4a73543206d14384cacae44ecabd5
+      internalID: 716237122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_241
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcda0d7bafbf2b46978973c779127fa
+      internalID: -832889756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_242
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 104
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c845478e9b12a4f4981be29b3e8d86ec
+      internalID: 1837026219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0d208bc6a52f47bfa0b006935f3fe
+      internalID: 1342973300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sit6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f03fa9dde9d0a4fa6c292585f3bdb9
+      internalID: -174234728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_245
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 72
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf98dec86cb71e4d96cad1802fd94f0
+      internalID: 1599023342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_246
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2119639d8b61a24aaa49831ea47d7b5
+      internalID: -240464990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_247
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 72
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fdd3609da2094fbd5bf1682d7d228
+      internalID: -140918122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_248
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9138b2e4ddcd0b8469c1562b15421d1c
+      internalID: 745322375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_249
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 72
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb79d61cc34a284fa8c1088d0c0986b
+      internalID: 865546979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_250
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 75
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe2bba9395e36418f8efbfb53ffdf9
+      internalID: -1966019454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_251
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 72
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37274354a7d5f2b419c55d13c44e2dd4
+      internalID: -437962188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_252
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 72
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd4da23c7c0f140a4068e2fdbaf8cc
+      internalID: 1948700272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_253
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 76
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908b7c12c388ae4a92352147cd9dcfc
+      internalID: -1299596605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_254
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 77
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17c8bb4d1d12f141845fd99854ae89b
+      internalID: 1226306579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_255
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e3ec5f5b4bd74cbf1fdd58abb5c2e
+      internalID: -1470849532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_256
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2341fa08e49b9334c88bd0fa07229211
+      internalID: 636755816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_257
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 39
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9e34707a5d7847b8d56dab8c852e1
+      internalID: -203258571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_258
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91304e5bcf029e74cb0fe8f44bb5415c
+      internalID: 1874982449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_259
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feda0cb9184d274883e18745f8ffe87
+      internalID: 1046967820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_260
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64003950411cbe040b233ed8539481d2
+      internalID: 2059538895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_261
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e00bcba85ebb429261cd073f8835c
+      internalID: -439956432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_262
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8aec768c36634d82737d6860d4d28
+      internalID: -558663539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_263
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 39
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb5f5b052df4a4d9f4b8189493dfac
+      internalID: -555046226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_264
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 39
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e42a1ff280f5d46b62ec3c08b0ff0e
+      internalID: 185457237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_265
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 38
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aedd9fc07f940e4295a7efcf0e8f3e5
+      internalID: -1050261238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_266
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 37
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0faa621d3b6fd43b22c35c298b21e2
+      internalID: 756943417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_267
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b423e3671d95499ba89c2698b4bab
+      internalID: -31583098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_268
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25618d70805abbb4aac069fa46553c58
+      internalID: -1884729932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_269
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a354abb5c36342964a3b479c33ae3
+      internalID: 622424945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_270
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab4542fad95d1479b2241a6e0df7ed
+      internalID: 33242952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_271
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 41
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cd744052e1374aa172255c5e61f5d
+      internalID: -229577696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_272
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab90b745b208c4ca2335bee2510e52
+      internalID: -61239222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_273
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82784b2d6525ac749a76b56a82939c80
+      internalID: -1099579893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_274
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 40
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531e3db92ff2e24fba450ce083b8c49
+      internalID: -499389021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_275
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 41
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad8b7c21f4d5f4e8c33450b8268be7
+      internalID: -791486183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_276
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 38
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64845206ac6684149aec45f286545290
+      internalID: -1209603375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_277
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a8af08b0369541a309d2c1ecec341
+      internalID: 624912526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_278
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20100fc8fb4a784f9760ac568997f74
+      internalID: -2137745361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_279
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552cac60d74e2a499eb19f6fa3abfba
+      internalID: -1923847170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_280
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e66e6d22fedc740896bd733a9c247d
+      internalID: 1918836881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_281
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9984652d244254d9dd05a495f1df88
+      internalID: -1463720885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_282
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796161e6abfd0c4ab16bf324de3135c
+      internalID: -1101547084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_283
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce0946d8899f84993d1f694c5bd0be
+      internalID: 623152609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_284
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a2061f7a9c5c4f8816ead07e394ef
+      internalID: 1589802225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_285
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad82b2dae6dc634fbdc47d792220c9a
+      internalID: -1859995702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_286
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a38b2a9b3fd249a4f6431db0d5e06
+      internalID: 1152572809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_287
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cd46e3d20860438accb2cc18aa81f
+      internalID: -196176175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_288
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcf5c7d58214d48b4725cf1421a93b
+      internalID: 730517834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_289
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 11
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e550df7f0a6d1f41b1fe537e9ec7c9d
+      internalID: 1796046836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indigo_0_290
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 12
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea948c0dd84494dba4adec6a25cee9
+      internalID: -882597799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      indigo_0_275: -791486183
+      Sit5: 1342973300
+      indigo_0_280: 1918836881
+      indigo_0_159: 1487673303
+      indigo_0_153: -1808012896
+      indigo_0_65: 853943263
+      indigo_0_251: -437962188
+      indigo_0_163: 86108257
+      indigo_0_190: -1031004587
+      indigo_0_122: -2113898731
+      indigo_0_162: 1089645918
+      indigo_0_60: 367421796
+      indigo_0_270: 33242952
+      indigo_0_48: -656470674
+      indigo_0_236: 1888004247
+      indigo_0_84: -1144208218
+      indigo_0_10: 729905542
+      indigo_0_15: -1857499880
+      indigo_0_85: 1056637774
+      indigo_0_234: -648353942
+      indigo_0_76: 799181481
+      Run1: 1148390389
+      indigo_0_129: 17893291
+      indigo_0_115: -1262613985
+      Run55: -1453768448
+      indigo_0_82: -717648249
+      indigo_0_186: 789955240
+      indigo_0_149: 1913497410
+      Run6: -581812259
+      indigo_0_191: 106654377
+      indigo_0_257: -203258571
+      indigo_0_263: -555046226
+      indigo_0_103: -288191903
+      indigo_0_44: 1246090932
+      indigo_0_101: -200981970
+      Run88: -1202249049
+      Sit3: -1792224508
+      indigo_0_113: 652902502
+      indigo_0_121: 905789246
+      Sit1: -1352840520
+      indigo_0_189: 1016163567
+      indigo_0_249: 865546979
+      indigo_0_67: -1779632075
+      indigo_0_59: 2018371015
+      indigo_0_91: 358705773
+      indigo_0_278: -2137745361
+      indigo_0_142: -998368349
+      indigo_0_226: -1223482283
+      indigo_0_281: -1463720885
+      indigo_0_74: 919405836
+      indigo_0_8: 143761686
+      indigo_0_69: 2096164412
+      indigo_0_26: 1715571713
+      indigo_0_200: -862022157
+      indigo_0_240: 716237122
+      Run44: 305291965
+      indigo_0_41: -802608628
+      indigo_0_147: 1414654753
+      indigo_0_178: -1376398236
+      indigo_0_25: 459982162
+      indigo_0_102: -1149151369
+      indigo_0_282: -1101547084
+      indigo_0_161: -1140556113
+      Run77: -38353207
+      indigo_0_51: -810701007
+      indigo_0_49: -2017922022
+      indigo_0_63: 1165241009
+      indigo_0_215: -826091756
+      indigo_0_265: -1050261238
+      indigo_0_157: 1887449097
+      indigo_0_247: -140918122
+      indigo_0_272: -61239222
+      Run22: 1996248584
+      indigo_0_288: 730517834
+      indigo_0_204: -903572875
+      indigo_0_62: 688092274
+      indigo_0_246: -240464990
+      indigo_0_112: -1019051883
+      indigo_0_106: -756540930
+      indigo_0_57: -813725954
+      indigo_0_279: -1923847170
+      indigo_0_58: -1200581459
+      indigo_0_9: 532123151
+      indigo_0_269: 622424945
+      indigo_0_124: -1500301790
+      indigo_0_171: 848585995
+      indigo_0_184: -903295300
+      indigo_0_14: 1413384529
+      indigo_0_289: 1796046836
+      indigo_0_5: -450447726
+      indigo_0_66: 16152903
+      indigo_0_78: 280988574
+      indigo_0_111: -509709918
+      indigo_0_229: 684111397
+      indigo_0_52: -1897923394
+      indigo_0_4: 122697557
+      indigo_0_70: -2038428604
+      indigo_0_195: -2055771455
+      indigo_0_216: -2039980440
+      indigo_0_170: 775070636
+      indigo_0_99: -1228512412
+      indigo_0_231: -888956909
+      indigo_0_264: 185457237
+      indigo_0_104: -1209001842
+      indigo_0_117: -1357270909
+      indigo_0_95: 508800128
+      indigo_0_86: 1393227749
+      indigo_0_144: 1055080745
+      indigo_0_132: 1372611353
+      indigo_0_177: -1174737989
+      indigo_0_30: 504679510
+      indigo_0_276: -1209603375
+      indigo_0_18: 744877903
+      indigo_0_17: 1075263477
+      indigo_0_93: -334167322
+      indigo_0_81: 974051204
+      indigo_0_108: 2056633904
+      indigo_0_155: 909435891
+      indigo_0_72: -1456105151
+      Run8: -418541367
+      indigo_0_255: -1470849532
+      indigo_0_54: 496786430
+      indigo_0_134: -1965091047
+      indigo_0_266: 756943417
+      Run2: 1248310425
+      indigo_0_1: 1496901570
+      Sit2: 1623287777
+      indigo_0_224: -38353207
+      indigo_0_225: 386474596
+      Run7: 1029256287
+      indigo_0_192: -1900482753
+      indigo_0_203: -1358407631
+      indigo_0_175: -1843517613
+      indigo_0_125: 498182796
+      indigo_0_141: -1111527134
+      indigo_0_239: 1996248584
+      indigo_0_97: -1453768448
+      indigo_0_241: 508305427
+      indigo_0_227: 636755816
+      indigo_0_256: -854469973
+      indigo_0_173: -1258954504
+      indigo_0_140: 1231514484
+      indigo_0_209: 1975959009
+      indigo_0_46: 1599023342
+      Run5: 1637681341
+      indigo_0_245: -1808692434
+      Run3: -854207304
+      indigo_0_0: -1009063281
+      indigo_0_207: 1589802225
+      indigo_0_284: -196176175
+      indigo_0_287: -91483557
+      indigo_0_202: 2138731242
+      indigo_0_20: -459173722
+      Run11: 1520935575
+      Sit4: 872432219
+      indigo_0_16: -1799062051
+      indigo_0_118: -636494947
+      indigo_0_198: 620264912
+      indigo_0_19: 1637681341
+      indigo_0_201: 920160731
+      indigo_0_176: -1949246077
+      indigo_0_187: 1570081597
+      indigo_0_208: 659318158
+      Run66: 604245876
+      indigo_0_228: -854207304
+      indigo_0_164: 606869418
+      indigo_0_235: -1066350651
+      indigo_0_238: -1099579893
+      indigo_0_273: -1032230533
+      indigo_0_11: -14613332
+      indigo_0_50: -984209964
+      indigo_0_33: -1676310355
+      indigo_0_119: 1226306579
+      indigo_0_254: -1828993009
+      indigo_0_172: 749150244
+      indigo_0_211: -1113991762
+      indigo_0_237: -91311895
+      indigo_0_130: 1215600983
+      indigo_0_40: -892894892
+      indigo_0_28: -31583098
+      indigo_0_267: 891542114
+      indigo_0_232: -558663539
+      indigo_0_262: -1314016186
+      indigo_0_139: -563957327
+      Run4: -1205184879
+      indigo_0_230: -880530539
+      indigo_0_160: -1503944954
+      indigo_0_29: -1591680017
+      indigo_0_92: -1867186816
+      indigo_0_206: -1792224508
+      indigo_0_136: -746226216
+      indigo_0_13: 2040752889
+      indigo_0_79: 1504502710
+      indigo_0_135: 1818156832
+      indigo_0_47: -268825842
+      indigo_0_71: -418541367
+      indigo_0_114: -864758491
+      indigo_0_61: 1359121937
+      indigo_0_56: -1859995702
+      indigo_0_285: -1489949216
+      indigo_0_89: 622963256
+      indigo_0_156: -1156383883
+      indigo_0_87: 676334903
+      indigo_0_80: 2121898831
+      indigo_0_185: -229577696
+      indigo_0_271: 1531319941
+      indigo_0_133: -1584607370
+      indigo_0_39: -882597799
+      indigo_0_290: 209539966
+      indigo_0_154: 1682213947
+      indigo_0_188: -1534835750
+      indigo_0_214: 1874982449
+      indigo_0_258: 1946909203
+      indigo_0_217: 1321203026
+      indigo_0_38: 1877318420
+      indigo_0_88: -1808581820
+      indigo_0_90: 1975577674
+      indigo_0_96: 2059538895
+      indigo_0_260: 455024592
+      indigo_0_123: -499389021
+      indigo_0_274: -692456986
+      Run33: -1032230533
+      indigo_0_165: -1624126118
+      indigo_0_174: -1135204346
+      indigo_0_127: 1677064601
+      indigo_0_146: 2101203243
+      indigo_0_107: 2099993473
+      indigo_0_183: -2078595432
+      indigo_0_213: -107845407
+      indigo_0_64: -1688771737
+      indigo_0_31: -1205961513
+      indigo_0_27: -445464081
+      indigo_0_105: 585499538
+      indigo_0_150: 1948700272
+      indigo_0_252: -1045484720
+      indigo_0_6: 604245876
+      indigo_0_128: 1152572809
+      indigo_0_286: -683651669
+      indigo_0_75: -2010100982
+      indigo_0_73: -1205184879
+      indigo_0_131: -439956432
+      indigo_0_261: 1589373066
+      indigo_0_120: 1667338726
+      indigo_0_83: 745322375
+      indigo_0_248: -1249353593
+      indigo_0_100: -709108196
+      indigo_0_12: -1299596605
+      indigo_0_253: 225089609
+      indigo_0_194: -256786647
+      indigo_0_158: -1701362697
+      indigo_0_138: 1248310425
+      indigo_0_152: 1963342398
+      indigo_0_205: 1837026219
+      indigo_0_53: -769047375
+      indigo_0_242: -886020603
+      Sit6: -174234728
+      indigo_0_233: 2064091617
+      indigo_0_45: -1476339850
+      indigo_0_145: -1418892146
+      indigo_0_223: 35125154
+      indigo_0_218: 315423778
+      indigo_0_32: 623152609
+      indigo_0_283: -1067174261
+      indigo_0_98: -170713598
+      indigo_0_197: 1249899995
+      indigo_0_151: -1884729932
+      indigo_0_268: -646030504
+      indigo_0_196: 988923590
+      indigo_0_109: -1669872733
+      indigo_0_116: 1739626999
+      indigo_0_43: 624912526
+      indigo_0_277: -36037454
+      indigo_0_210: 1085679825
+      indigo_0_3: 904684145
+      indigo_0_212: 1995886525
+      indigo_0_94: 1046967820
+      indigo_0_55: -1835914271
+      indigo_0_259: 114019842
+      indigo_0_199: -1857075995
+      indigo_0_7: -2133495291
+      indigo_0_110: -1198053070
+      indigo_0_2: 872432219
+      indigo_0_137: -787251830
+      indigo_0_143: -1956800833
+      indigo_0_68: -174234728
+      indigo_0_126: -250507201
+      indigo_0_193: -1966019454
+      indigo_0_77: -938669447
+      indigo_0_250: -2043602009
+      indigo_0_42: 587937922
+      indigo_0_148: 1727614970
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
