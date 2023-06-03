@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     private int barra1Score;
     private int barra2Score;
 
+    public AudioSource audio2;
+
     private static GameManager instance;
 
     public static GameManager Instance
@@ -31,12 +33,14 @@ public class GameManager : MonoBehaviour
     {
         barra1Score++;
         barra1ScoreText.text = barra1Score.ToString();
+        audio2.Play();
     }
 
     public void Barra2Scored()
     {
         barra2Score++;
         barra2ScoreText.text = barra2Score.ToString();
+        audio2.Play();
     }
     
     public void Restart()

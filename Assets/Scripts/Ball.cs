@@ -6,10 +6,11 @@ public class Ball : MonoBehaviour
 {
 
     [SerializeField] private float initialVelocity;
-    [SerializeField] private float velocityMultiplayer = 1.1f;
+    [SerializeField] private float velocityMultiplayer;
 
     private Rigidbody2D ballRb;
 
+    public AudioSource source;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +28,8 @@ public class Ball : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         ballRb.velocity *= velocityMultiplayer;
+        source.Play();
+        source.pitch = Random.Range(2,4);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -26,7 +26,6 @@ public class Animations : MonoBehaviour
         {
             movement = Input.GetAxisRaw("Vertical2");
         }
-        Debug.Log(movement);
         
         if (movement < -0.1)
         {

@@ -5870,7 +5870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_275
+      name: Main1
       rect:
         serializedVersion: 2
         x: 640
@@ -5891,7 +5891,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_276
+      name: Main2
       rect:
         serializedVersion: 2
         x: 672
@@ -5912,7 +5912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_277
+      name: Main3
       rect:
         serializedVersion: 2
         x: 705
@@ -5933,7 +5933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_278
+      name: Main4
       rect:
         serializedVersion: 2
         x: 738
@@ -6122,10 +6122,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_287
+      name: Main5
       rect:
         serializedVersion: 2
-        x: 644
+        x: 645
         y: 8
         width: 22
         height: 18
@@ -6143,7 +6143,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_288
+      name: Main6
       rect:
         serializedVersion: 2
         x: 673
@@ -6164,7 +6164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_289
+      name: Main7
       rect:
         serializedVersion: 2
         x: 704
@@ -6185,7 +6185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: indigo_0_290
+      name: Mian8
       rect:
         serializedVersion: 2
         x: 736
@@ -6216,14 +6216,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      indigo_0_275: -791486183
       Sit5: 1342973300
       indigo_0_280: 1918836881
       indigo_0_159: 1487673303
       indigo_0_153: -1808012896
       indigo_0_65: 853943263
       indigo_0_251: -437962188
-      indigo_0_163: 86108257
+      indigo_0_250: -2043602009
       indigo_0_190: -1031004587
       indigo_0_122: -2113898731
       indigo_0_162: 1089645918
@@ -6261,7 +6260,6 @@ TextureImporter:
       indigo_0_67: -1779632075
       indigo_0_59: 2018371015
       indigo_0_91: 358705773
-      indigo_0_278: -2137745361
       indigo_0_142: -998368349
       indigo_0_226: -1223482283
       indigo_0_281: -1463720885
@@ -6289,14 +6287,14 @@ TextureImporter:
       indigo_0_247: -140918122
       indigo_0_272: -61239222
       Run22: 1996248584
-      indigo_0_288: 730517834
       indigo_0_204: -903572875
+      indigo_0_5: -450447726
       indigo_0_62: 688092274
       indigo_0_246: -240464990
-      indigo_0_112: -1019051883
-      indigo_0_106: -756540930
       indigo_0_57: -813725954
       indigo_0_279: -1923847170
+      indigo_0_106: -756540930
+      indigo_0_112: -1019051883
       indigo_0_58: -1200581459
       indigo_0_9: 532123151
       indigo_0_269: 622424945
@@ -6304,8 +6302,6 @@ TextureImporter:
       indigo_0_171: 848585995
       indigo_0_184: -903295300
       indigo_0_14: 1413384529
-      indigo_0_289: 1796046836
-      indigo_0_5: -450447726
       indigo_0_66: 16152903
       indigo_0_78: 280988574
       indigo_0_111: -509709918
@@ -6322,12 +6318,12 @@ TextureImporter:
       indigo_0_104: -1209001842
       indigo_0_117: -1357270909
       indigo_0_95: 508800128
+      Main6: 730517834
       indigo_0_86: 1393227749
       indigo_0_144: 1055080745
       indigo_0_132: 1372611353
       indigo_0_177: -1174737989
       indigo_0_30: 504679510
-      indigo_0_276: -1209603375
       indigo_0_18: 744877903
       indigo_0_17: 1075263477
       indigo_0_93: -334167322
@@ -6366,10 +6362,9 @@ TextureImporter:
       indigo_0_0: -1009063281
       indigo_0_207: 1589802225
       indigo_0_284: -196176175
-      indigo_0_287: -91483557
+      Run11: 1520935575
       indigo_0_202: 2138731242
       indigo_0_20: -459173722
-      Run11: 1520935575
       Sit4: 872432219
       indigo_0_16: -1799062051
       indigo_0_118: -636494947
@@ -6390,8 +6385,10 @@ TextureImporter:
       indigo_0_33: -1676310355
       indigo_0_119: 1226306579
       indigo_0_254: -1828993009
+      Main4: -2137745361
       indigo_0_172: 749150244
       indigo_0_211: -1113991762
+      Main1: -791486183
       indigo_0_237: -91311895
       indigo_0_130: 1215600983
       indigo_0_40: -892894892
@@ -6424,7 +6421,6 @@ TextureImporter:
       indigo_0_271: 1531319941
       indigo_0_133: -1584607370
       indigo_0_39: -882597799
-      indigo_0_290: 209539966
       indigo_0_154: 1682213947
       indigo_0_188: -1534835750
       indigo_0_214: 1874982449
@@ -6450,6 +6446,7 @@ TextureImporter:
       indigo_0_27: -445464081
       indigo_0_105: 585499538
       indigo_0_150: 1948700272
+      Main7: 1796046836
       indigo_0_252: -1045484720
       indigo_0_6: 604245876
       indigo_0_128: 1152572809
@@ -6457,6 +6454,7 @@ TextureImporter:
       indigo_0_75: -2010100982
       indigo_0_73: -1205184879
       indigo_0_131: -439956432
+      Main3: 624912526
       indigo_0_261: 1589373066
       indigo_0_120: 1667338726
       indigo_0_83: 745322375
@@ -6482,12 +6480,13 @@ TextureImporter:
       indigo_0_98: -170713598
       indigo_0_197: 1249899995
       indigo_0_151: -1884729932
+      Main2: -1209603375
+      Main5: -196176175
       indigo_0_268: -646030504
       indigo_0_196: 988923590
       indigo_0_109: -1669872733
       indigo_0_116: 1739626999
       indigo_0_43: 624912526
-      indigo_0_277: -36037454
       indigo_0_210: 1085679825
       indigo_0_3: 904684145
       indigo_0_212: 1995886525
@@ -6503,8 +6502,9 @@ TextureImporter:
       indigo_0_68: -174234728
       indigo_0_126: -250507201
       indigo_0_193: -1966019454
+      Mian8: -882597799
       indigo_0_77: -938669447
-      indigo_0_250: -2043602009
+      indigo_0_163: 86108257
       indigo_0_42: 587937922
       indigo_0_148: 1727614970
   spritePackingTag: 
